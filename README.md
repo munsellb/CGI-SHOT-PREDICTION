@@ -1,6 +1,6 @@
 # CGI-SHOT-PREDICTION
 
-## Libraries required to compile the source code:
+Libraries required to compile the source code:
 
 <ul>
 	<li>cmake (http://www.cmake.org/download/), version 2.8.X or greater</li>
