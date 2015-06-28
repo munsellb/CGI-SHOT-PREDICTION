@@ -10,9 +10,9 @@ Libraries required to compile the source code:
 
 Steps to compile source code in Mac/Linux:
 
-1) Download source code and unzip in <destination folder>
+1) Download source code and unzip in <i>DESTINATION_FOLDER</i>
 
-2) In <destintation folder> make a new directory named "build"
+2) In DESTINATION_FOLDER make a new directory named "build"
 
 3) cd in to "build" folder 
 
