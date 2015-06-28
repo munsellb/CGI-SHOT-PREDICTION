@@ -1,0 +1,6 @@
+%YAML:1.0
+mtx: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: f
+   data: [ 5., 5., 5., 5., 5., 5., 5., 5., 5. ]
