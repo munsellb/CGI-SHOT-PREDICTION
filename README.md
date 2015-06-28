@@ -12,12 +12,12 @@ Steps to compile source code in Mac/Linux:
 
 1) Download source code and unzip in DESTINATION_FOLDER
 
-2) In DESTINATION_FOLDER make a new directory named <i>"build"</i>
+2) In DESTINATION_FOLDER make a new directory named "build"
 
-3) cd in to <i>"build"</i> folder 
+3) cd in to "build" folder 
 
-4) execute the ccmake command as follows: <span style="font-family: courier">ccmake ../</span>
+4) execute the ccmake command as follows: <i>ccmake ../</i>
 
-5) then execute <font style="font-family: courier">make</font> command
+5) then execute <i>make</i> command
 
 
