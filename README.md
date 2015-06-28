@@ -10,14 +10,14 @@ Libraries required to compile the source code:
 
 Steps to compile source code in Mac/Linux:
 
-1) Download source code and unzip in <i>DESTINATION_FOLDER</i>
+1) Download source code and unzip in DESTINATION_FOLDER
 
-2) In <i>DESTINATION_FOLDER</i> make a new directory named <i>build</i>
+2) In DESTINATION_FOLDER make a new directory named <i>"build"</i>
 
-3) cd in to <i>build</i> folder 
+3) cd in to <i>"build"</i> folder 
 
-4) execute the ccmake command as follows: <font face="courier">ccmake ../</font>
+4) execute the ccmake command as follows: <font style="font-family: courier">ccmake ../</font>
 
-5) then execute <font face="courier">make</font> command
+5) then execute <font style="font-family: courier">make</font> command
 
 
