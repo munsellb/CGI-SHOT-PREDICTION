@@ -16,7 +16,7 @@ Steps to compile source code in Mac/Linux:
 
 3) cd in to <i>"build"</i> folder 
 
-4) execute the ccmake command as follows: <font style="font-family: courier">ccmake ../</font>
+4) execute the ccmake command as follows: <span style="font-family: courier">ccmake ../</span>
 
 5) then execute <font style="font-family: courier">make</font> command
 
