@@ -11,8 +11,13 @@ Libraries required to compile the source code:
 Steps to compile source code in Mac/Linux:
 
 1) Download source code and unzip in <destination folder>
+
 2) In <destintation folder> make a new directory named "build"
+
 3) cd in to "build" folder 
+
 4) execute the ccmake command as follows: ccmake ../
+
 5) then execute make command
+
 
